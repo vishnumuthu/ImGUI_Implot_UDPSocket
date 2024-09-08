@@ -4,4 +4,4 @@ Create a simple working for ImGUI and Implot with VisualStudio 22 to show the wo
 - The example shows UDP socket send and receive through winsock2.<br/>
 - The example shows the real time plot of value.<br/>
 
-For further details see [A simple work of Imgui, Implot and UDP Socket](https://blog.vishnumuthu.com/index.php/2024/09/08/a-simple-work-of-imgui-implot-and-udp-socket/)
+For further details see [Simple working of Imgui, Implot and UDP Socket](https://blog.vishnumuthu.com/index.php/2024/09/08/simple-working-of-imgui-implot-and-udp-socket/)
